@@ -38,4 +38,5 @@ int main()
     std::cout << getLetterGrade(59.50) << std::endl;
     std::cout << getLetterGrade(57.80) << std::endl;
     std::cout << getLetterGrade(23.90) << std::endl;
+    std::cout << "Master Branch sucks lmaoooo" << std::endl;
 }
